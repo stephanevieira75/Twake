@@ -1,4 +1,4 @@
-import { Button, Col, Row, Typography } from 'antd';
+import { Button, Row, Typography } from 'antd';
 import React, { useState } from 'react';
 import Emojione from '../../Emojione/Emojione';
 import ObjectModal from '../../ObjectModal/ObjectModal';
